@@ -1,1 +1,0 @@
-# Mod manager package initialization
